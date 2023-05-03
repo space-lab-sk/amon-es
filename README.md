@@ -12,6 +12,10 @@
     * Samples of AMON-ES data: [Data folder](/data_samples/)
     * Basic visualization in Python: [Python notebooks](/python_notebooks/)
     
+- AMON-ES web app
+    * Web app is available at: http://amon-web-app.eu-central-1.elasticbeanstalk.com/
+    * REST API - Swager UI: http://amon-es-api-v1.eu-central-1.elasticbeanstalk.com/docs 
+    
 Note: AMON-ES consists of the following systems:
 1) Airglow monitoring system: AMON instrument, Airglow All-sky Camera (AAC)
 2) Ionosphere monitoring system: GNSS receiver
